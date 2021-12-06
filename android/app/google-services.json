@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998848559860",
+    "project_id": "clickpassagens-9c5f1",
+    "storage_bucket": "clickpassagens-9c5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998848559860:android:92776ce11f41eabfe67ca1",
+        "android_client_info": {
+          "package_name": "com.dn.app_clickpassagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998848559860-pot6rcincpfs234lgvcb3om4otiuaehr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp73B4n5VHV_j1PlZFBVyCA7AxvmNFHdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998848559860-pot6rcincpfs234lgvcb3om4otiuaehr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
